@@ -11,7 +11,7 @@
 	<form method="post" action="print.jsp">
 		반복할 문자열 : <input type="text" name ="msg"><br>
 		반복할 숫자 : <input type ="text" name ="number"><br>
-		<input type="submit" value="전송">
+		<input type="submit" value="전송송">
 	</form>
 </body>
 </html>
